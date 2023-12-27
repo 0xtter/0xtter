@@ -1,13 +1,13 @@
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=43F700&center=true&vCenter=true&width=600&lines=Hello+I'm+Thomas!;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Ing%C3%A9nieur+CSIRT+%C3%A0+Orange+Cyberd%C3%A9fense;%F0%9F%93%9A+%C3%89tudiant+%C3%A0+ISEN+Lille" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F723&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%95%B5%EF%B8%8F+CSIRT+Analyst;%E2%AD%90+Self-Hosting;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BBDeveloppment)](https://git.io/typing-svg)
 
 
   En tant que self-hosteur, je crois que chacun devrait avoir le contrôle total sur ses données et ses services en ligne. Je suis spécialisé dans l'hébergement de mes propres sites web, applications et services pour éviter la dépendance aux grands fournisseurs de services en ligne. J'aime partager mes connaissances et expériences avec les autres pour les aider à comprendre les avantages du self-hébergement et à se lancer dans l'aventure. Mon objectif est de faciliter l'accès à l'autonomie en matière de technologies numériques pour tous.
+  
 ## Mes compétences
 
+- Forensics
 - Cybersécurité
 - Tests de pénétration
 - Conformité réglementaire
