@@ -4,7 +4,7 @@
 
 hi👋
 
-# Mes stats
+# My stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xtter&theme=vue-dark&show_icons=true" style="text-align:center"></img>
 </p>
